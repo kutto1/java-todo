@@ -1,6 +1,6 @@
 # Java-Week3-ToDo-List
 
-Author: Kutto Paul
+Author: Kutto Paul KIP
 
 Official repo for the "To Do List" project using Java, Spark, Handlebars etc for week 3 of java unit.
 
